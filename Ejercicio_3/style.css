@@ -1,0 +1,47 @@
+body{
+    text-align: left;
+    font-family: Calibri;
+    line-height: 130%;
+}
+h1,h2{
+    color: #3368ff;
+    font-variant: small-caps;
+}
+h3{
+    color: #f08017;
+    font-variant: small-caps;
+}
+.presentacion0{
+    color: #f03434;
+}
+.presentacion1{
+    color: #7f1c1c;
+}
+.dmultimedial0{
+    color: #c4f86e;
+}
+.dmultimedial1{
+    color: #5c7631;
+}
+
+.dweb0{
+    color: #e9baa3;
+}
+.dweb1{
+    color: #83685c;
+}
+.ccortos0{
+    color: #ccbbd2;
+}
+.ccortos1{
+    color: #8b808f;
+}
+.formaprof0{
+    color: #fa9ceb;
+}
+.formaprof1{
+    color: #ba13a0;
+}
+strong{
+    font-weight: normal;
+}
